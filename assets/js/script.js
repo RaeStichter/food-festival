@@ -1,11 +1,11 @@
-//const img1 = require("../../dist/assets/img/food-table.jpg");
-//const img2 = require("../../dist/assets/img/grill.jpg");
-
 require('bootstrap');
 const img1 = require("../img/food-table.jpg");
 const img2 = require("../img/grill.jpg");
 
-//require("bootstrap");
+// require('bootstrap');
+// const img1 = require("../img/food-table.jpg");
+// const img2 = require("../img/grill.jpg");
+
 $(document).ready(function() {
 
   // First image is hard coded in index.html
